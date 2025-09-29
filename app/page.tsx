@@ -62,13 +62,13 @@ export default function Portfolio() {
   const education = [
     {
       title: "Analista en TIC",
-      institution: "Universidad Nacional de La Plata",
+      institution: "Facultad de informática | Universidad Nacional de La Plata",
       status: "Completado",
       type: "Título de Grado",
     },
     {
       title: "Especialización en Redes de Datos y Seguridad",
-      institution: "Universidad Nacional de La Plata",
+      institution: "Facultad de informática | Universidad Nacional de La Plata",
       status: "En curso",
       type: "Posgrado",
     },
