@@ -7,9 +7,9 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Sergio Del Longo - Full Stack Developer",
+  title: "Sergio De Luca - Full Stack Developer",
   description:
-    "Portfolio profesional de Sergio Del Longo - Desarrollador Full Stack especializado en .NET, Angular y tecnologías web modernas",
+    "Portfolio profesional de Sergio De Luca - Desarrollador Full Stack especializado en .NET, Angular y tecnologías web modernas",
   generator: "v0.app",
 }
 

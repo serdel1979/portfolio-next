@@ -113,7 +113,7 @@ export default function Portfolio() {
                 <div className="w-32 h-32 mx-auto lg:mx-0 rounded-full bg-muted flex items-center justify-center overflow-hidden">
                   <img
                     src="/perfil.jpg"
-                    alt="Sergio Del Longo"
+                    alt="Sergio De Luca"
                     className="w-full h-full object-cover"
                   />
                 </div>
