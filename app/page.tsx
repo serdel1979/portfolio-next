@@ -112,13 +112,13 @@ export default function Portfolio() {
               <div className="space-y-4">
                 <div className="w-32 h-32 mx-auto lg:mx-0 rounded-full bg-muted flex items-center justify-center overflow-hidden">
                   <img
-                    src="/professional-developer-portrait.png"
+                    src="/perfil.jpg"
                     alt="Sergio Del Longo"
                     className="w-full h-full object-cover"
                   />
                 </div>
                 <div>
-                  <h1 className="text-3xl font-bold text-balance">Sergio Del Longo</h1>
+                  <h1 className="text-3xl font-bold text-balance">Sergio De Luca</h1>
                   <p className="text-lg text-muted-foreground">Full Stack Developer</p>
                   <p className="text-sm text-muted-foreground mt-2 leading-relaxed">
                     Especializado en desarrollo de aplicaciones web con .NET, Angular y tecnologías modernas.
@@ -158,7 +158,7 @@ export default function Portfolio() {
                   <div className="flex items-center gap-3 text-sm">
                     <Mail className="w-4 h-4 text-primary" />
                     <a href="mailto:sdlbsso@gmail.com" className="hover:text-primary transition-colors">
-                      sdlbsso@gmail.com
+                      sergio.deluca@affilialeads.com
                     </a>
                   </div>
                 </div>
@@ -194,7 +194,7 @@ export default function Portfolio() {
                       </p>
                       <p className="text-lg leading-relaxed text-muted-foreground mt-4">
                         Mi experiencia abarca desde la administración de infraestructura hasta el desarrollo de
-                        aplicaciones web modernas, con un enfoque especial en tecnologías .NET y Angular.
+                        aplicaciones web modernas, con un enfoque especial en tecnologías PHP, Laravel .NET y Angular.
                       </p>
                     </div>
                   </div>
